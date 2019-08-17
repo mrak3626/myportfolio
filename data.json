@@ -1,26 +1,26 @@
 {
-    "name": "Bharat Agarwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "name": "Abhishek Kumar",
+    "title": "Amazon Alexa Developer, Front end developer",
+    "intro": "Action speaks louder than your words",
     "skills": [{
-            "title": "Skill 1",
+            "title": "C",
             "rating": "90"
         },
         {
-            "title": "Skill 2",
+            "title": "C++",
             "rating": "97"
         },
         {
-            "title": "Skill 3",
+            "title": "HTML/CSS/JAVA SCRIPT",
             "rating": "85"
         },{
-            "title": "Skill 1",
+            "title": "PYTHON",
             "rating": "90"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Lovely Professional University",
+        "phone": "9315070494",
+        "email": "abhishek.kumar2K22@gmail.com"
     }
 }
